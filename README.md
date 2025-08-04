@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Python**
 
-- 📫 How to reach me **shohei.kknl34@gmail.com**
+- 📫 How to reach me **"Connect with me"**
 
 - 😄 Pronouns: he/him
 
