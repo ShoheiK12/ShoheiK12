@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Python**
 
+- 👨‍💻 All of my projects are available at [here](https://shoheik12.github.io/)
+
 - 📫 How to reach me **"Connect with me"**
 
 - 😄 Pronouns: he/him
